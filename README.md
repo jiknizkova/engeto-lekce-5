@@ -4,3 +4,5 @@ tohle je moje úprava
 ještě jednou
 
 hurá, už to funguje
+
+tohle je úprava od koleky!
