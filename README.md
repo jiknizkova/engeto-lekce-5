@@ -5,4 +5,4 @@ ještě jednou
 
 hurá, už to funguje
 
-tohle je úprava od koleky!
+tohle je úprava od kolegy!
