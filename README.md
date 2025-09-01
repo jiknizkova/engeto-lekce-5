@@ -6,3 +6,4 @@ ještě jednou
 hurá, už to funguje
 
 tohle je úprava od kolegy!
+ještě jedna od kolegy
